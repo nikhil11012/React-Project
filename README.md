@@ -1,4 +1,4 @@
-# Refokus Clone Website Project ✨
+# Refokus Website Project ✨
 
 This repository contains the source code for a React-based clone website of Refokus. The project aims to replicate the layout, design, and functionalities of the original Refokus website while incorporating additional features and enhancements for an improved user experience.
 
